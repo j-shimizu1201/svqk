@@ -44,7 +44,7 @@
 
   <properties>
     <jeg.outputDir>${project.basedir}/src/main/java</jeg.outputDir>
-    <sonar.skip>true</sonar.skip>
+    <sonar.skip>false</sonar.skip>
   </properties>
 
   <build>

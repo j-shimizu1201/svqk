@@ -18,7 +18,7 @@
   <properties>
     <port.file>${project.basedir}/port.properties</port.file>
     <ant.file>${project.basedir}/build.xml</ant.file>
-    <sonar.skip>true</sonar.skip>
+    <sonar.skip>false</sonar.skip>
   </properties>
 
   <!-- Build Settings -->
